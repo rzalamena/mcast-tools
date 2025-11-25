@@ -1,0 +1,9 @@
+# Ignore tags file
+/tags
+
+# Ignore binaries
+/mcast-join
+/mcast-query
+
+# Ignore swap files
+*.swp
